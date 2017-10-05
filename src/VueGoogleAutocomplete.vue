@@ -1,5 +1,5 @@
 <template>
-    <span class="input-wrapper">
+    <span class="input-wrapper" style="height: 40px;">
         <input
             ref="autocomplete"
             type="text"
