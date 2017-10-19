@@ -228,7 +228,7 @@
     position: absolute;
     right: 0px;
     cursor: pointer;
-    top: 7px;
+    top: 10px;
     padding-left: 2px;
     height: 20px;
     width: 20px;
